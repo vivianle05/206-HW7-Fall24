@@ -190,6 +190,8 @@ def get_pokemon_by_type(type_value, cur):
     pass
 
 
+
+### EXTRA CREDIT ###
 def get_fastest_pokemon_of_type(type, cur):
     """
     Parameters
